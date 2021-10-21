@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/jitendraaanadani0477/jitendraaanadani/_apis/build/status/jituce.ContosoAir?branchName=master)](https://dev.azure.com/jitendraaanadani0477/jitendraaanadani/_build/latest?definitionId=4&branchName=master)
 
 # Microsoft.Github CI Demo
 
