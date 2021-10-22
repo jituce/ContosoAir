@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/jitendraaanadani0477/1c48b125-3d61-473e-bdf0-4cbba827b083/fbae19f6-321f-46a1-804e-27296d05e778/_apis/work/boardbadge/ad27d944-845b-415a-b420-1b67798aecd4)](https://dev.azure.com/jitendraaanadani0477/1c48b125-3d61-473e-bdf0-4cbba827b083/_boards/board/t/fbae19f6-321f-46a1-804e-27296d05e778/Microsoft.EpicCategory)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 [![Build Status](https://dev.azure.com/jitendraaanadani0477/jitendraaanadani/_apis/build/status/jituce.ContosoAir?branchName=master)](https://dev.azure.com/jitendraaanadani0477/jitendraaanadani/_build/latest?definitionId=4&branchName=master)
 
